@@ -1,0 +1,152 @@
+{
+  "version": 2,
+  "exportedAt": "2026-04-28T22:08:02.719Z",
+  "card": {
+    "genInfo": {
+      "prefix": null,
+      "fname": "Roma-Scar Flooring Studio",
+      "lname": null,
+      "pronouns": null,
+      "name": null,
+      "title": "Bespoke Flooring Specialists",
+      "biz": "",
+      "desc": null,
+      "key": null,
+      "fp": null,
+      "tracker": null,
+      "fontLink": null,
+      "fontCss": null,
+      "street": "74 Church St, Leatherhead",
+      "city": "",
+      "state": "",
+      "postal": "KT22 8ER",
+      "country": "",
+      "beforeTextLink": "Get your card @",
+      "linkedText": "Exposure Boost 👨‍💻",
+      "url": "https://o2o.to/i/1QdFNT",
+      "seoTitle": null,
+      "metaDescription": null,
+      "customFavi": "https://i.postimg.cc/05KjWkNF/Untitled-design-2026-04-28T225636-987.png",
+      "shareImg": "https://i.postimg.cc/05KjWkNF/Untitled-design-2026-04-28T225636-987.png",
+      "bookMarkImg": "https://i.postimg.cc/05KjWkNF/Untitled-design-2026-04-28T225636-987.png",
+      "bookMarkTitle": null,
+      "metaName": null,
+      "metaContent": null,
+      "metaURL": null
+    },
+    "colors": {
+      "logoBg": {
+        "color": "#e2be8a",
+        "openPalette": false
+      },
+      "mainBg": {
+        "color": "#000000",
+        "openPalette": false
+      },
+      "buttonBg": {
+        "color": "#e2be8a",
+        "openPalette": false
+      },
+      "cardBg": {
+        "color": "#000000",
+        "openPalette": false
+      }
+    },
+    "hostedURL": null,
+    "footerCredit": true,
+    "footerCreditCustom": true,
+    "logoOrHeader": true,
+    "customFavicon": true,
+    "shareImage": true,
+    "seoOpti": true,
+    "seoOptimization": false,
+    "metaData": false,
+    "simplifyCard": false,
+    "isFeaturedOn": false,
+    "customFavi": true,
+    "bookMarkImg": null,
+    "bookMarkImage": true,
+    "bookMarkTitle": false,
+    "shareImg": null,
+    "images": {
+      "logo": null,
+      "photo": null,
+      "cover": {
+        "file": "cover.png",
+        "ext": "png",
+        "mime": "image/png"
+      },
+      "icon": null
+    },
+    "primaryActions": [
+      {
+        "name": "call",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "01372234780",
+        "label": "Your Phone Number"
+      },
+      {
+        "name": "email",
+        "href": "mailto:",
+        "placeholder": "info@example.com",
+        "value": "info@roma-scarflooringstudio.co.uk",
+        "label": "Your Email Address"
+      },
+      {
+        "name": "whatsApp",
+        "placeholder": "https://wa.me/profileID",
+        "value": "https://wa.me/+447306483310",
+        "label": "Your WhatsApp URL"
+      },
+      {
+        "name": "website",
+        "placeholder": "https://example.com",
+        "value": "https://roma-scarflooringstudio.co.uk/",
+        "label": "Your Website URL"
+      },
+      {
+        "name": "location",
+        "placeholder": "https://goo.gl/maps/location",
+        "value": "https://maps.app.goo.gl/VEwM7q8b1FGABSsF6",
+        "label": "Your Maps Location URL"
+      }
+    ],
+    "secondaryActions": [
+      {
+        "name": "instagram",
+        "placeholder": "https://instagram.com/UserName",
+        "value": "https://www.instagram.com/romascarflooringstudio/",
+        "color": "#405de6",
+        "label": "Your Instagram URL"
+      }
+    ],
+    "featured": [
+      {
+        "title": "",
+        "content": [
+          {
+            "label": "Review us on Google!",
+            "link": "https://g.page/r/CWu0-WuoK3-QEAE/review",
+            "contentType": "customButton"
+          },
+          {
+            "name": "googlelogonewest.png",
+            "title": "googlelogonewest",
+            "artist": null,
+            "album": null,
+            "filesize": null,
+            "type": "image",
+            "contentType": "media",
+            "ext": "png",
+            "mime": "image/png",
+            "info": null,
+            "file": "media/googlelogonewest.png",
+            "coverFile": null,
+            "coverExt": null
+          }
+        ]
+      }
+    ]
+  }
+}
